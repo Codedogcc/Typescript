@@ -5,7 +5,7 @@ a = 10;
 // 可以使用 | 来连接多个类型（联合类型）
 let b: "male" | "female";
 b = "male";
-b = "female";
+b = "female"; 
 
 let c: boolean | string;
 c = true;

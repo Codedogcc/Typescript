@@ -1,3 +1,4 @@
+
 // 声明一个变量a，同时指定它的类型为number
 let a: number;
 
@@ -24,7 +25,7 @@ c = true;
 // console.log(sum(123, 456)); // 579
 // console.log(sum(123, "456")); // "123456"
 
-function sum(a: number, b: number): number{
+function sum(a: number, b: number): number {
     return a + b;
 }
 
